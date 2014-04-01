@@ -1,0 +1,22 @@
+<<<<<<< .mine
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RemoteDAL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Service" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost/AtsService/AtsService.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>=======
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Remote.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Service" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost/AtsService/AtsService.svc/</Value>
+    </Setting>
+    <Setting Name="DB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"Data Source=ANDREW-PC;Initial Catalog=ABCB_SCMS;UID=ABCBClient;PWD=g3n35imm0n5"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>>>>>>>> .r64
